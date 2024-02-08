@@ -19,4 +19,3 @@ ___
 }
 ```
 
-If Any Bug Open Pull Request
